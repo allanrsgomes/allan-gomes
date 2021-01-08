@@ -445,7 +445,7 @@ section#sobre-mim .stack-list li {
 section#sobre-mim .photo {
     width: 400px;
     height: 500px;
-    background: url('/img/me_photo.png');
+    background: url('../img/perfil.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -591,6 +591,11 @@ section#portifolio .item .img-item {
     justify-content: center;
     height: 460px;
     position: relative;
+}
+
+section#portifolio .item .img-item .img-site {
+    height: 420px;
+    border-radius: 20px;
 }
 
 section#portifolio .item .container-btns {
