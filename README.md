@@ -25,6 +25,6 @@ Este site foi desenvolvido com objetivo de criar um portifólio que serviria tan
 
 ---
 
-## CONTATO
+## 📝 CONTATO
 
 Allan Gomes - [Instagram](https://instagram.com/allanrsgomes) / [Linkedin](https://www.linkedin.com/in/allanrsgomes/)
